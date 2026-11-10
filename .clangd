@@ -1,0 +1,3 @@
+# Resolve includes (incl. dandelion/runtime.h) via the build's compile_commands.json.
+CompileFlags:
+  CompilationDatabase: build

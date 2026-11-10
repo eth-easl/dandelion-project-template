@@ -1,0 +1,14 @@
+# Build output
+/build*/
+*.o
+*.a
+*.so
+
+# dsdk downloads (when running scripts/setup_dsdk.sh from the project root)
+/dsdk_install/
+dandelionSDK.tar.gz
+
+# Editor / OS
+.cache/
+compile_commands.json
+.DS_Store
